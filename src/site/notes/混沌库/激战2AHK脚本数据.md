@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//2-ahk/"}
+{"dg-publish":true,"permalink":"//2-ahk/","tags":["gardenEntry"]}
 ---
 
 #数字技术/Ahk
